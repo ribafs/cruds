@@ -13,4 +13,6 @@ São todos CRUDs simples e mesmo o 6app-auto lida com tabelas bas sem relacionam
 
 Caso queira uma solução que lide com relacionamentos entre as várias tabelas, use o bake do CakePHP.
 
+## Este repositório
+https://github.com/ribafs/cruds
 
