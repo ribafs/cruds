@@ -1,0 +1,5 @@
+A paginação básica que utilizei para criar este aplicativo:
+https://www.kodingmadesimple.com/2017/01/simple-ajax-pagination-in-jquery-php-pdo-mysql.html
+
+Todo o restante foi criado por mim (Ribamar FS).
+

@@ -1,0 +1,10 @@
+Bom tutorial sobre a criação de um CRUD com PHP e BootStrap com MySQLi
+
+https://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql/
+https://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql-parte1/
+https://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql-parte2/
+https://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql-parte3/
+https://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql-parte4/
+https://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql-parte5/
+https://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql-parte6/
+
